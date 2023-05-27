@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+display: flex;
+background-color: #FFF8F3;
+}
+section img{
+width: 100%;  
+  
+}
+
+#r{
+    color: #FD6E0A;
+}
+
+#hr{
+    background-color: #FD6E0A;
+    color:white;
+    border-radius: 5%;
+    border-style:hidden;
+   
+}
+.mid{
+    padding: 40px;
+}
+.last{
+    padding: 20px;
+}
