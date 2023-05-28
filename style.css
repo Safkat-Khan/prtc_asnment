@@ -6,8 +6,11 @@ display: flex;
 background-color: #FFF8F3;
 }
 section img{
-width: 100%;  
+width: 105%;  
   
+}
+#dev{
+    padding: 15px;
 }
 
 #r{
@@ -26,4 +29,15 @@ width: 100%;
 }
 .last{
     padding: 20px;
+}
+#nam{
+    padding-bottom: 70px;
+}
+.con{
+    padding-left: 50%;
+    padding-bottom: 20%;
+    padding-top: 50px;
+}
+.bio{
+    font-size: 25px;
 }
