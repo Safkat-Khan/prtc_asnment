@@ -32,6 +32,9 @@ width: 105%;
 }
 #nam{
     padding-bottom: 70px;
+    padding-left: 30px;
+    font-size: 50px;
+    font-weight: 200px;
 }
 .con{
     padding-left: 50%;
@@ -40,4 +43,9 @@ width: 105%;
 }
 .bio{
     font-size: 25px;
+    padding-left: 30px;
+}
+#mh{
+    font-size: 50px;
+
 }
