@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    margin: 0%;
+    margin: 0;
 }
 #r{
     color: #FD6E0A;
@@ -25,6 +25,17 @@ h3{
 .f-name{
     color:rgb(45, 45, 45);
 }
+.info{
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+.header_pic{
+    margin: ---;
+    padding: ---;
+}
+.dev{
+    margin: 10px;
+}
 .txt{
     padding-bottom: 20px ;
     color: #8d8a88;
@@ -46,17 +57,17 @@ h3{
     padding: 20px;
 }
 .half-weith{
-    width: 50%;
-    padding-left: 30px;
+    width: 46%;
+    padding-left: 37px;
     
 }
 .half-weith img{
-    width:95%;
+    width:100%;
    
 }
 .contacts{
     margin-top: 50px;
-    margin-bottom: 70px;
+    margin-bottom: 120px;
     font-size: large;
 }
 .dow{
@@ -77,9 +88,6 @@ margin-left: 20px;
 font-weight: 600;
 }
 
-
-
-
 .pro{
     text-decoration: none;
     padding-left: 170px;
@@ -98,4 +106,53 @@ font-weight: 600;
     background-color: #FD6E0A;
     color: white;
     border-radius: 7px;
+}
+.bio{
+    padding: 30px 30px;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-align: center;
+    background-color:#FFF8F3;
+    margin-bottom: 50px;
+    color: #bbb8b5;
+}
+.abut_me{
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: px;
+}
+.dis{
+    padding-bottom: 20px;
+}
+.details{
+    display: flex;
+    padding-left: 180px;
+    line-height: 1;
+}
+.data{
+    padding-left: 60px;
+    color: black;
+}
+.dataty1{
+    padding-left: 80px;
+    color: #bbb8b5;
+}
+.dataty2{
+    padding-left: 100px;
+    color: #bbb8b5;
+}
+.dataty3{
+    padding-left: 130px;
+    color: #bbb8b5;
+}
+.dataty4{
+    padding-left: 110px;
+    color: #bbb8b5;
+}
+#prsonal_details{
+    padding-bottom: 50px;
 }
