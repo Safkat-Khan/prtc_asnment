@@ -1,58 +1,66 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-section{
-display: flex;
-background-color: #FFF8F3;
-}
-section img{
-width: 105%;  
-  
-}
-#dev{
-    padding: 15px;
-}
 
 #r{
     color: #FD6E0A;
 }
-
-#hr{
-    background-color: #FD6E0A;
-    color:white;
-    border-radius: 5%;
-    border-style:hidden;
-   
+.sparate{
+    display: flex;
+    background-color: #FFF8F3;
 }
-.mid{
-    padding: 40px;
+.half-weith{
+    width: 50%;
+    padding-left: 3%;
+    padding-top: 5%;
 }
-.last{
-    padding: 20px;
+.half-weith img{
+    width: 100%;
 }
-#nam{
-    padding-bottom: 70px;
-    padding-left: 30px;
-    font-size: 50px;
-    font-weight: 200px;
+#contacts{
+    padding-right: 50;
+    
+}
+.dow{
+text-decoration: none;
+padding: 10px 25px;
+background-color: #FD6E0A;
+color: white;
+border-radius: 5px;
+font-weight: 600;
 }
 .con{
-    padding-left: 50%;
-    padding-bottom: 20%;
-    padding-top: 50px;
+text-decoration: none;
+padding:8px 20px ;
+color: #FD6E0A;
+border-radius: 5px;
+border-style: solid;
+margin-left: 20px;
+font-weight: 600;
 }
-.bio{
-    font-size: 25px;
-    padding-left: 30px;
-}
-#mh{
-    font-size: 50px;
-
-}
-#pr{
-border: #FFF8F3;
+.txt{
+    padding-bottom: 30px ;
+    
 }
 
-#bl{
-    border: #FFF8F3;
+
+
+.pro{
+    text-decoration: none;
+    padding-left: 170px;
+    color: black;
+
+}
+.blog{
+    text-decoration: none;
+    padding: 50px;
+    color: black;
+}
+.hire{
+    text-decoration: none;
+    font-weight: 600;
+    padding: 20px 35px;
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 7px;
 }
