@@ -215,3 +215,8 @@ margin-right: 150px;
 .asm{
     text-align: center;
 }
+.resume{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
