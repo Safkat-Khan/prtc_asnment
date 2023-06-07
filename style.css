@@ -86,7 +86,7 @@ background-color: #FD6E0A;
 color: white;
 border-radius: 5px;
 font-weight: 600;
-border-color: #FD6E0A;
+border-color: transparent;
 padding-left: 35px;
 padding-right: 35px;
 padding-top: 20px;
@@ -254,31 +254,60 @@ margin-left: 45%;
 margin-top: 2%;
 font-size: large;
 margin-bottom: 100px;
+border-color: transparent;
 
 }
 .Lets{
     display: flex;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 14%;
+    padding-right: 14%;
     padding-bottom: 500px;
-    background-color: #FD6E0A;
+    background-color: #FFF8F3;
 }
 .connect{
     padding-top: 150px;
-    padding-right: 175px;
+    padding-right: 100px;
 }
 .massage_me{
     padding-top: 150px;
-    padding-left: 175px;
+    padding-left: 10px;
 }
 .intex{
-    padding-bottom: 30px;
-    padding-left: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 180px;
     margin-bottom: 30PX;
+    border-color: transparent;
     
 }
 .ineml{
-    padding-bottom: 30PX;
-    padding-left: 180PX;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 180PX;
     margin-bottom: 30PX;
+    border-color: transparent;
+}
+.inptex{
+    padding-left: 180px;
+    padding-bottom: 100px;
+    margin-bottom: 30px;
+    border-color: transparent;
+}
+.Submitbt{
+    padding: 20px;
+    padding: 10px 25px;
+background-color: #FD6E0A;
+color: white;
+border-radius: 5px;
+font-weight: 600;
+border-color: transparent;
+padding-left: 35px;
+padding-right: 35px;
+padding-top: 20px;
+padding-bottom: 20px;
+font-size: large;
+
+}
+.sclpic{
+    padding: 10px;
 }
