@@ -147,6 +147,7 @@ font-size: large;
 }
 .dis{
     padding-bottom: 20px;
+    font-weight: 200;
 }
 .details{
     display: flex;
@@ -183,6 +184,8 @@ padding-top: 30px;
 }
 .do_txt{
     color: #bbb8b5;
+    font-weight: 500;
+    font-size: large;
 }
 .dobox{
     display: flex;
@@ -190,32 +193,28 @@ margin-left: 150px;
 margin-right: 150px;
 }
 .Vj{
-    padding: 30px;
-    margin: 40px;
+    padding: 35px;
+    margin: 20px;
     border-radius: 7px;
-    box-shadow: 5px 5px #f7f7f7;
-    border-color: transparent;
+    box-shadow: 5px 5px 15px 15px #f7f7f7;
 }
 .ra{
-    padding: 30px;
-    margin: 40px;
+    padding: 35px;
+    margin: 20px;
     border-radius: 7px;
-    box-shadow: 5px 5px #f7f7f7;
-    border-color: transparent;
+    box-shadow: 5px 5px 15px 15px #f7f7f7;
 }
 .Nj{
-    padding: 30px;
-    margin: 40px;
+    padding: 35px;
+    margin: 20px;
     border-radius: 7px;
-    box-shadow: 5px 5px #f7f7f7;
-    border-color: transparent;
+    box-shadow: 5px 5px 15px 15px #f7f7f7;
 }
 .mbd{
-    padding: 30px;
-    margin: 40px;
+    padding: 35px;
+    margin: 20px;
     border-radius: 7px;
-    box-shadow: 5px 5px #f7f7f7;
-    border-color: transparent;
+    box-shadow: 5px 5px 15px 15px #f7f7f7;
 }
 .vlt{
     color: #8d8a88;
@@ -264,7 +263,7 @@ border-color: transparent;
     display: flex;
     padding-left: 14%;
     padding-right: 14%;
-    padding-bottom: 500px;
+    padding-bottom: 200px;
     background-color: #FFF8F3;
 }
 .connect{
@@ -278,7 +277,8 @@ border-color: transparent;
 .intex{
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-right: 180px;
+    padding-left: 20px;
+    width: 340px;
     margin-bottom: 30PX;
     border-color: transparent;
     
@@ -286,13 +286,17 @@ border-color: transparent;
 .ineml{
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-right: 180PX;
+    padding-left: 20px;
+ 
     margin-bottom: 30PX;
     border-color: transparent;
+    width: 340px;
 }
 .inptex{
-    padding-right: 180px;
-    padding-bottom: 100px;
+    padding-left: 20px;
+    width: 340px;
+    padding-top: 20px;
+    padding-bottom: 150px;
     margin-bottom: 30px;
     border-color: transparent;
 }
@@ -317,3 +321,18 @@ border-color: transparent;
 .conn{
     color: #8d8a88;
 }
+::placeholder { 
+    color: #8d8a88;
+   font-weight: 100;
+   font-size: medium;
+  }
+  .letsc{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 20px;
+  }
+  .lmm{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 20px;
+  }
