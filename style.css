@@ -191,28 +191,31 @@ margin-right: 150px;
 }
 .Vj{
     padding: 30px;
-
     margin: 40px;
     border-radius: 7px;
-    box-shadow: 5px 5px 5px 5px #888888;
+    box-shadow: 5px 5px #f7f7f7;
+    border-color: transparent;
 }
 .ra{
     padding: 30px;
     margin: 40px;
     border-radius: 7px;
-    box-shadow: 5px 5px 5px 5px#888888;
+    box-shadow: 5px 5px #f7f7f7;
+    border-color: transparent;
 }
 .Nj{
     padding: 30px;
     margin: 40px;
     border-radius: 7px;
-    box-shadow: 5px 5px 5px 5px#888888;
+    box-shadow: 5px 5px #f7f7f7;
+    border-color: transparent;
 }
 .mbd{
     padding: 30px;
     margin: 40px;
     border-radius: 7px;
-    box-shadow: 5px 5px 5px 5px#888888;
+    box-shadow: 5px 5px #f7f7f7;
+    border-color: transparent;
 }
 .vlt{
     color: #8d8a88;
@@ -288,7 +291,7 @@ border-color: transparent;
     border-color: transparent;
 }
 .inptex{
-    padding-left: 180px;
+    padding-right: 180px;
     padding-bottom: 100px;
     margin-bottom: 30px;
     border-color: transparent;
@@ -296,18 +299,21 @@ border-color: transparent;
 .Submitbt{
     padding: 20px;
     padding: 10px 25px;
-background-color: #FD6E0A;
-color: white;
-border-radius: 5px;
-font-weight: 600;
-border-color: transparent;
-padding-left: 35px;
-padding-right: 35px;
-padding-top: 20px;
-padding-bottom: 20px;
-font-size: large;
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    border-color: transparent;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: large;
 
 }
 .sclpic{
     padding: 10px;
+}
+.conn{
+    color: #8d8a88;
 }
